@@ -1989,6 +1989,7 @@ input, select, textarea {
 		box-shadow: 0 0.05em 0.1em 0 rgba(0, 0, 0, 0.1);
 		margin-bottom: 40px;
 		background:#fff;
+		min-height:360px;
 	}
 
 		.item header {
