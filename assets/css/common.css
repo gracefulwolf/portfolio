@@ -860,6 +860,34 @@ header.on #nav a {
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
   }
+  @-webkit-keyframes intro {
+    0% {
+      -webkit-transform: scaleX(1) skewX(20deg);
+              transform: scaleX(1) skewX(20deg);
+      -webkit-transform-origin: left;
+              transform-origin: left;
+    }
+    100% {
+      -webkit-transform: scaleX(0) skewX(20deg);
+              transform: scaleX(0) skewX(20deg);
+      -webkit-transform-origin: left;
+              transform-origin: left;
+    }
+  }
+  @keyframes intro {
+    0% {
+      -webkit-transform: scaleX(1) skewX(20deg);
+              transform: scaleX(1) skewX(20deg);
+      -webkit-transform-origin: left;
+              transform-origin: left;
+    }
+    100% {
+      -webkit-transform: scaleX(0) skewX(20deg);
+              transform: scaleX(0) skewX(20deg);
+      -webkit-transform-origin: left;
+              transform-origin: left;
+    }
+  }
 }
 @media only screen and (max-width: 670px) {
   #intro .main-title2 {
@@ -871,11 +899,6 @@ header.on #nav a {
   #intro .main-title2 span {
     font-size: 30px;
     line-height: 1.2;
-  }
-}
-@media only screen and (max-width: 500px) {
-  .ui-swiper .project-item .img-wrap {
-    height: 100px;
   }
 }
 @media only screen and (max-width: 570px) {
@@ -903,5 +926,38 @@ header.on #nav a {
   #intro .main-title2 span {
     font-size: 30px;
     line-height: 1.2;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .ui-swiper .project-item .img-wrap {
+    height: 100px;
+  }
+  @-webkit-keyframes intro {
+    0% {
+      -webkit-transform: scaleX(1) skewX(10deg);
+              transform: scaleX(1) skewX(10deg);
+      -webkit-transform-origin: left;
+              transform-origin: left;
+    }
+    100% {
+      -webkit-transform: scaleX(0) skewX(10deg);
+              transform: scaleX(0) skewX(10deg);
+      -webkit-transform-origin: left;
+              transform-origin: left;
+    }
+  }
+  @keyframes intro {
+    0% {
+      -webkit-transform: scaleX(1) skewX(10deg);
+              transform: scaleX(1) skewX(10deg);
+      -webkit-transform-origin: left;
+              transform-origin: left;
+    }
+    100% {
+      -webkit-transform: scaleX(0) skewX(10deg);
+              transform: scaleX(0) skewX(10deg);
+      -webkit-transform-origin: left;
+              transform-origin: left;
+    }
   }
 }
