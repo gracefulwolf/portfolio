@@ -900,6 +900,9 @@ header.on #nav a {
     font-size: 30px;
     line-height: 1.2;
   }
+  #intro .arrow-icon {
+    bottom: 100px;
+  }
 }
 @media only screen and (max-width: 570px) {
   #intro .main-title1 {
