@@ -622,6 +622,10 @@ header{
 		.btn-nav.on > i:nth-child(2){display:none;}
 		.btn-nav.on > i:nth-child(3){transform:rotate(45deg);-webkit-transform:rotate(45deg);}
 	}
+	#intro{
+		height:calc(100vh - 50px);
+		padding-top:50px;
+	}
 	@keyframes intro {
 		0% {
 			transform:scaleX(1) skewX(20deg);

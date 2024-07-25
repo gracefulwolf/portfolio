@@ -860,6 +860,10 @@ header.on #nav a {
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
   }
+  #intro {
+    height: calc(100vh - 50px);
+    padding-top: 50px;
+  }
   @-webkit-keyframes intro {
     0% {
       -webkit-transform: scaleX(1) skewX(20deg);
