@@ -1,98 +1,100 @@
 [
     {
-        "name": "우리캐피탈 다이렉트",
-        "txt" : "반응형, 접근성",
-        "imgSrc" : "../../images/3.png",
-        "imgAlt" : "우리캐피탈"
+        "name": "케이뱅크",
+        "txt" : "케이뱅크 운영 UI/UX 스크립트 담당개발",
+        "imgSrc" : "../../images/kbank.jpg",
+        "imgAlt" : "케이뱅크"
     },
     {
-        "name": "농협생명 온라인보험 시스템",
-        "txt" : "반응형, 접근성",
-        "imgSrc" : "../../images/4.png",
-        "imgAlt" : "농협생명"
-    },
-    {
-        "name": "연합뉴스 모바일 페이지 구축",
-        "txt" : "반응형, pc접근성",
-        "imgSrc" : "../../images/6.png",
-        "imgAlt" : "연합뉴스"
-    },
-    {
-        "name": "SK 텔링크 온라인 통합 POC 구축",
-        "txt" : "반응형, pc접근성",
-        "imgSrc" : "../../images/5.png",
-        "imgAlt" : "sk텔링크"
-    },
-    {
-        "name": "삼성화재 다이렉트",
-        "txt" : "ie8",
-        "imgSrc" : "../../images/2.png",
-        "imgAlt" : "삼성화재 다이랙트"
-    },
-    {
-        "name": "IBK 모바일 시스템 구축",
-        "txt" : "하이브리드 앱",
-        "imgSrc" : "../../images/7.png",
-        "imgAlt" : ""
-    },
-    {
-        "name": "농협손해보험 옴니청약 시스템 및 혁신금융서비스 구축",
-        "txt" : "여행자보험 on-off",
-        "imgSrc" : "../../images/1.png",
-        "imgAlt" : "농협손해보험"
-    },
-    {
-        "name": "한화생명",
-        "txt" : "모바일고객관리 APP. 통합 ",
-        "imgSrc" : "",
-        "imgAlt" : ""
-    },
-    {
-        "name": "하나은행",
-        "txt" : "하나 원큐플러스 구축",
-        "imgSrc" : "",
-        "imgAlt" : ""
-    },
-    {
-        "name": "우리은행",
-        "txt" : "우리WON뱅킹 로보알파 포트폴리오 추천서비스 구축",
-        "imgSrc" : "",
-        "imgAlt" : ""
-    },
-    {
-        "name": "제주항공",
-        "txt" : "제주항공 앱 구축",
-        "imgSrc" : "",
-        "imgAlt" : ""
-    },
-    {
-        "name": "NH증권",
-        "txt" : "",
-        "imgSrc" : "",
-        "imgAlt" : ""
-    },
-    {
-        "name": "신한카드",
-        "txt" : "신한카드 마이카 UI/UX 개발",
-        "imgSrc" : "",
-        "imgAlt" : ""
+        "name": "LG CNS",
+        "txt" : "미션잉글리시, 스피킹클래스 UI/UX 개발 <br> (버터타임으로변경)",
+        "imgSrc" : "../../images/butter.png",
+        "imgAlt" : "버터 잉글리시"
     },
     {
         "name": "오스템 임플란트",
         "txt" : "오스템 임플란트 ow UI/UX 개발",
-        "imgSrc" : "",
+        "imgSrc" : "../../images/ost.png",
         "imgAlt" : ""
     },
     {
-        "name": "LG CNS",
-        "txt" : "미션잉글리시, 스피킹클래스 UI/UX 개발",
-        "imgSrc" : "",
-        "imgAlt" : ""
+        "name": "신한카드",
+        "txt" : "신한카드 마이카 UI/UX 개발, UI/UX 개발",
+        "imgSrc" : "../../images/mycar.jpg",
+        "imgAlt" : "신한카드 마이카",
+        "url": "https://mycar.shinhancard.com"
     },
     {
-        "name": "케이뱅크",
-        "txt" : "케이뱅크 운영 UI/UX 스크립트 담당개발",
-        "imgSrc" : "",
-        "imgAlt" : ""
+        "name": "NH증권",
+        "txt" : "퍼블리싱 지원 (발주처 대보), 퍼블리싱 담당",
+        "imgSrc" : "../../images/wmdrnjs.jpg",
+        "imgAlt" : "nh투자증권"
+    },
+    {
+        "name": "제주항공",
+        "txt" : "제주항공 앱 구축 UI/UX 개발",
+        "imgSrc" : "../../images/jeju.png",
+        "imgAlt" : "제주항공"
+    },
+    {
+        "name": "우리은행",
+        "txt" : "우리WON뱅킹 로보알파 포트폴리오 추천서비스 구축 UI/UX 개발",
+        "imgSrc" : "../../images/woori.jpg",
+        "imgAlt" : "우리은행"
+    },
+    {
+        "name": "하나은행",
+        "txt" : "하나 원큐플러스 구축 퍼블리싱 담당",
+        "imgSrc" : "../../images/hana.jpg",
+        "imgAlt" : "하나 원큐"
+    },
+    {
+        "name": "한화생명",
+        "txt" : "모바일고객관리 APP. 통합구축 UI/UX 개발 ",
+        "imgSrc" : "../../images/hanwha.png",
+        "imgAlt" : "한화생명"
+    },
+    {
+        "name": "농협손해보험 옴니청약 시스템 및 혁신금융서비스 구축",
+        "txt" : "여행자보험 on-off, UI/UX 개발",
+        "imgSrc" : "../../images/1.png",
+        "imgAlt" : "농협손해보험"
+    },
+    {
+        "name": "IBK 모바일 시스템 구축",
+        "txt" : "하이브리드 앱, UI/UX 개발",
+        "imgSrc" : "../../images/7.png",
+        "imgAlt" : "ibk 모바일"
+    },
+    {
+        "name": "삼성화재 다이렉트",
+        "txt" : "ie8, 접근성 퍼블리싱담당",
+        "imgSrc" : "../../images/2.png",
+        "imgAlt" : "삼성화재 다이랙트"
+    },
+    {
+        "name": "SK 텔링크 온라인 통합 POC 구축",
+        "txt" : "반응형, pc접근성, 퍼블리싱담당",
+        "imgSrc" : "../../images/5.png",
+        "imgAlt" : "sk텔링크"
+    },
+    {
+        "name": "연합뉴스 모바일 페이지 구축",
+        "txt" : "반응형, pc접근성, 퍼블리싱담당",
+        "imgSrc" : "../../images/6.png",
+        "imgAlt" : "연합뉴스"
+    },
+    {
+        "name": "농협생명 온라인보험 시스템",
+        "txt" : "반응형, 접근성, 퍼블리싱담당",
+        "imgSrc" : "../../images/4.png",
+        "imgAlt" : "농협생명"
+    },
+    
+    {
+        "name": "우리캐피탈 다이렉트",
+        "txt" : "반응형, 접근성",
+        "imgSrc" : "../../images/3.png",
+        "imgAlt" : "우리캐피탈"
     }
 ]
