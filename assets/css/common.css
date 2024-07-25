@@ -649,6 +649,8 @@ header.on #nav a {
           transform: translateX(-50%);
   color: #706f6f;
   margin-top: 30px;
+  width: 100%;
+  text-align: center;
 }
 
 .btn-top {
